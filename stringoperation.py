@@ -9,4 +9,5 @@ b = "Hidayat"
 c = a + " " + b
 print(c)
 
+#no need space if ,
 print(a,b)
